@@ -13,10 +13,10 @@ N/A
 
 Experience the convenience of the Note Taker by accessing the following link:
 
-[Note Taker](#insert_actual_link_here)
+[Note Taker](#https://note-taker-annie-sosa-8b6fc4f6acba.herokuapp.com/)
 
 Upon entering the application, you can effortlessly create, save, and retrieve your notes. Here's a preview of the Note Taker interface:
-![Note Taker Screenshot](#insert_screenshot_link_here)
+<img src="./Develop/public/assets/images/Notetaker Screenshot.png" alt="Notetaker Screenshot">
 
 ## Credits
 
