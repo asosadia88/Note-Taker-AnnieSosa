@@ -29,4 +29,4 @@ Resources from the following platforms contributed to the design and functionali
 
 ## License
 
-MIT License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#insert_actual_license_link_here)
+MIT License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
